@@ -7,7 +7,7 @@
 
 ---
 
-<p align="center"> Unity game project developed that show the distance to vehicle ahead and time to collision.
+<p align="center"> Unity game project developed that shows the distance to the vehicle ahead and time to collision.
     <br> 
 </p>
 <!---
