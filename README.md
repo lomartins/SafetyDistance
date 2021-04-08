@@ -10,6 +10,13 @@
 <p align="center"> Unity game project developed that shows the distance to the vehicle ahead and time to collision.
     <br> 
 </p>
+
+## 👥 Team:
+- Lucas Martins &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp; [@lucaomartins](https://github.com/lucaomartins/)
+- Lucas Jardim &nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp; [@lucasjardimsil](https://github.com/lucasjardimsil/)
+- Kaique Loureiro - &nbsp;&nbsp;[@Kaique-git](https://github.com/Kaique-git)
+- Nicolas Brito &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp; [@Lionlonely](https://github.com/Lionlonely)
+
 <!---
 ## 📝 Table of Contents
 
