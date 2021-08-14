@@ -3,13 +3,13 @@
  <img src="https://user-images.githubusercontent.com/51249341/113946066-f8a40f00-97dd-11eb-97b2-e7c4cd81073b.png" alt="Project logo"></a>
 </p>
 <h3 align="center">Safety Distance</h3>
+<h3 align="center">Demo video: https://youtu.be/NP0-04kgNBM</h3>
 
 
 ---
 
-<p align="center"> Unity game project developed that shows the distance to the vehicle ahead and time to collision.
-    <br> 
-</p>
+<p align="center"> Unity game project developed that shows the distance to the vehicle ahead and time to collision.</p>
+<br/> 
 
 ## 👥 Team:
 - Lucas Martins &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp; [@lucaomartins](https://github.com/lucaomartins/)
