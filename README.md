@@ -12,7 +12,7 @@
 <br/> 
 
 ## 👥 Team:
-- Lucas Martins &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp; [@lucaomartins](https://github.com/lucaomartins/)
+- Luísa Martins &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp; [@lomartins](https://github.com/lomartins/)
 - Lucas Jardim &nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp; [@lucasjardimsil](https://github.com/lucasjardimsil/)
 - Kaique Loureiro - &nbsp;&nbsp;[@Kaique-git](https://github.com/Kaique-git)
 - Nicolas Brito &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp; [@Lionlonely](https://github.com/Lionlonely)
